@@ -1093,8 +1093,8 @@ function Contact() {
             />
 
             <p style={{ color: tokens.textMuted, lineHeight: 1.8, marginBottom: "2rem" }}>
-              I am open to ML internships, junior opportunities, and research collaborations
-              in Machine Learning, Computer Vision, and Python development.
+              I am open to junior opportunities, and research collaborations
+              in Machine Learning, Data Analyst, Computer Vision, and Python development.
             </p>
 
             <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
