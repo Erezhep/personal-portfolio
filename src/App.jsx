@@ -689,14 +689,14 @@ function About() {
               }
             />
             <p style={{ color: tokens.textMuted, lineHeight: 1.9, marginBottom: "1.5rem" }}>
-              I'm a final-year Information Technology student at Astana International University,
-              specializing in Machine Learning and Computer Vision. My work centers on practical
-              AI — building models that solve real problems.
+              I am an Information Technology graduate from Astana International University, specializing in Machine Learning, 
+              Computer Vision, and Data Analytics. My work focuses on developing practical AI solutions, 
+              building machine learning models, and extracting meaningful insights from data to solve real-world problems.
             </p>
             <p style={{ color: tokens.textMuted, lineHeight: 1.9, marginBottom: "2rem" }}>
-              My thesis project applies hybrid U-Net and DeepLab-inspired architectures
-              to segment urban areas from satellite imagery — a challenge at the intersection
-              of deep learning, geospatial analysis, and real-world impact.
+              I have experience working with Python, data analysis, statistical modeling, and machine learning techniques. 
+              My graduation project focused on applying hybrid U-Net and DeepLab-inspired architectures for semantic 
+              segmentation of urban areas in satellite imagery, combining deep learning with geospatial analysis for practical applications.
             </p>
 
             <div
