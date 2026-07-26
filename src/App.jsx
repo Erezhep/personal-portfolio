@@ -1161,7 +1161,7 @@ function Contact() {
             </h3>
 
             <ul style={{ marginTop: "1.25rem", display: "flex", flexDirection: "column", gap: "0.8rem", color: tokens.textMuted }}>
-              <li>› ML Internship</li>
+              <li>› Data Analyst</li>
               <li>› Junior ML Engineer</li>
               <li>› Computer Vision Projects</li>
               <li>› Python Development</li>
